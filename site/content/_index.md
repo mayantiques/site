@@ -1,9 +1,9 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: Antiques with a personal touch
+subtitle: Receive an honest appraisal from an expert you can trust
 image: /img/room.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: Why Maryam?
   text: >-
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
